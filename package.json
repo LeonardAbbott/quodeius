@@ -1,0 +1,39 @@
+{
+  "name": "quodeius",
+  "version": "1.0.0",
+  "description": "Ethereum private key format converter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonardAbbott/quodeius.git"
+  },
+  "author": "AniyahFerry",
+  "license": "MIT",
+  "bin": {
+    "eth-keys": "./src/bin/start"
+  },
+  "dependencies": {
+    "@types/node": "^13.13.4",
+    "ethers": "~4.0.47",
+    "fs": "~0.0.1-security",
+    "prompts": "~2.3.2",
+    "ts-node": "~8.9.1",
+    "typescript": "~3.8"
+  },
+  "keywords": [
+    "ut",
+    "quasi",
+    "mnemonic",
+    "sint",
+    "private",
+    "possimus",
+    "private-key",
+    "ethersjs"
+  ],
+  "devDependencies": {
+    "@types/prompts": "^2.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/LeonardAbbott/quodeius.git/issues"
+  }
+}
